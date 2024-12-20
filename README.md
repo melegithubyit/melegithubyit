@@ -28,7 +28,7 @@ A real-time weather forecasting application built with Nextjs, Redux Toolkit, an
 
 
 ## 🏆 Achievements
-- 🎖️ 3rd Place at A2SV internal Hackathon (Team Nexus, Project: HibirLink)
+- 🎖️ 3rd Place at A2SV internal Hackathon (Team Nexus, Project: HibirLink) (https://drive.google.com/file/d/1OTHnhkvwm0q8S6q5_kRoBplc_Wh3SovF/view?usp=drive_link)
 - 📜 Certified from Africa to Silicon Valley (A2SV) for successful completion of a 1-year training program on Data Structures and Algorithms. (https://drive.google.com/file/d/15np_hZf3NAAugHje60cU-jd0yy7WqzJo/view?usp=drive_link)
 
 
