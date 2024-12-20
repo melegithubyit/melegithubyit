@@ -18,6 +18,18 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+## 💻 Featured Projects
+### [🌟 HibirLink](https://github.com/melegithubyit/HibirLink)
+A one-stop digital platform for e-commerce in Ethiopia. It integrates online marketplaces, delivery services, and auction systems.
+
+### [🌤️ WeatherApp](https://github.com/melegithubyit/WeatherApp)
+A real-time weather forecasting application built with Nextjs, Redux Toolkit, and OpenWeather API.
+
+
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+🎉 Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 😄
+
 
 
 
