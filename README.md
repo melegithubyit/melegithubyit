@@ -1,5 +1,10 @@
 ## Hi there, i am Melakeselam Yitbarek 👋
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=circular&logo=nestjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/Next.js-000000?style=circular&logo=nextjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+
 <!--
 **melegithubyit/melegithubyit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
