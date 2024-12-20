@@ -34,6 +34,7 @@ A real-time weather forecasting application built with Nextjs, Redux Toolkit, an
 
 ## 🌐 Connect With Me
 - [LinkedIn](www.linkedin.com/in/melakeselam-yitbarek-se)
+- [Leetcode](https://leetcode.com/u/meleleetytb/)
 - 📧 Email1: melakeselamyitbarek2012@gmail.com
 - 📧 Email2: melakeselam.yitbarek@a2sv.org
 
