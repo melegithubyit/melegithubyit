@@ -1,7 +1,7 @@
 ## Hi there, i am Melakeselam Yitbarek 👋
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=circular&logo=nestjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/Next.js-ffffff?style=circular&logo=nextjs&logoColor=black)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/React-61DAFB?style=flat&logo=reactjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
