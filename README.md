@@ -4,7 +4,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![React Query](https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![Tailwind Css](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![css](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=round&logo=css3&logoColor=white)
 ![Html](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Javascript](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
