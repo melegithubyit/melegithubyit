@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nestjs.svg" alt="NestJS" width="40" height="40" />
 
 <!--
 **melegithubyit/melegithubyit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
