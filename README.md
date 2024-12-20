@@ -1,4 +1,8 @@
 ## Hi there, i am Melakeselam Yitbarek 👋
+🚀 I'm a passionate Software Engineer specializing in building impactful solutions using modern technologies.  
+🌍 I enjoy solving real-world problems and contributing to the developer community.  
+💡 Always curious and eager to learn new things!
+
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=circular&logo=nestjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=circular&logo=nextjs&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
