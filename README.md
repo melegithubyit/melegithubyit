@@ -26,6 +26,12 @@ A one-stop digital platform for e-commerce in Ethiopia. It integrates online mar
 A real-time weather forecasting application built with Nextjs, Redux Toolkit, and OpenWeather API.
 
 
+## 🏆 Achievements
+- 🎖️ 3rd Place at A2SV internal Hackathon (Team Nexus, Project: HibirLink)
+- 📜 Certified from Africa to Silicon Valley (A2SV) for successful completion of a 1-year training program on Data Structures and Algorithms. (https://github.com/melegithubyit/WeatherApp)
+
+
+
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 🎉 Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 😄
