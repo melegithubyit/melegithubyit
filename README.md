@@ -25,6 +25,8 @@
 A one-stop digital platform for e-commerce in Ethiopia. It integrates online marketplaces, delivery services, and auction systems.
 ### [🌤️ WeatherApp](https://github.com/melegithubyit/WeatherApp)
 A real-time weather forecasting application built with Nextjs, Redux Toolkit, and OpenWeather API.
+### [Enterprise Pharmachy Management ](https://github.com/melegithubyit/EnterpriseApp-Pharmacy-Management)
+an Enterprise pharmacy management system used in a medical fields.
 
 
 ## 🏆 Achievements
