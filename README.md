@@ -101,10 +101,10 @@ An enterprise pharmacy management system used in medical settings.
 
 <div align="center">
 	<a href="https://github.com/melegithubyit">
-		<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=melegithubyit&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+		<img height="165" alt="GitHub stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=melegithubyit&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600" />
 	</a>
 	<a href="https://github.com/melegithubyit">
-		<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melegithubyit&layout=compact&hide_border=true" />
+		<img height="165" alt="Top languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=melegithubyit&layout=compact&hide_border=true&cache_seconds=21600" />
 	</a>
 </div>
 
