@@ -76,16 +76,16 @@
 
 ## 💻 Featured Projects
 
-### 🩺 HealthSync (AI-powered)
+### 🩺 [HealthSync (AI-powered)](https://github.com/melegithubyit/HealthSync-fullstack.git)
 An AI-powered healthcare platform that connects verified doctors with patients for secure communication, and helps facilitate diagnosis and medicine prescription.
 
-### 📊 GitHub Contribution Tracker
+### 📊 [GitHub Contribution Tracker](https://github.com/melegithubyit/Opensource-Github-Contribution-Tracker.git)
 A lightweight project where you just enter a GitHub username to instantly get detailed GitHub profile insights and contribution information.
 
-### 📚 Book World
+### 📚 [Book World](https://github.com/melegithubyit/Book-world.git)
 A full-stack book discovery app powered by the Google Books API. Personalized browsing and recommendations, plus authentication with Google OAuth.
 
-### 🏥 Enterprise Pharmacy Management
+### 🏥 [Enterprise Pharmacy Management](https://github.com/melegithubyit/EnterpriseApp-Pharmacy-Management.git)
 An enterprise pharmacy management system used in medical settings.
 
 ---
@@ -98,15 +98,6 @@ An enterprise pharmacy management system used in medical settings.
 ---
 
 ## 📈 GitHub at a Glance
-
-<div align="center">
-	<a href="https://github.com/melegithubyit">
-		<img height="165" alt="GitHub stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=melegithubyit&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600" />
-	</a>
-	<a href="https://github.com/melegithubyit">
-		<img height="165" alt="Top languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=melegithubyit&layout=compact&hide_border=true&cache_seconds=21600" />
-	</a>
-</div>
 
 <div align="center">
 	<a href="https://github.com/melegithubyit">
